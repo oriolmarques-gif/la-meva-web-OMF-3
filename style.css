@@ -1,0 +1,49 @@
+/* Estil bàsic per a tota la pàgina */
+body {
+    font-family: Arial, sans-serif;
+    background-color: #f5f5f5; /* Gris claret */
+    color: #333;
+    line-height: 1.6;
+    margin: 20px;
+}
+
+/* Canvia el color de tots els paràgrafs a blau */
+
+p {
+  color: #4a4a4a; /* Gris fosc per a millor lectura sobre el fons gris claret */
+}
+h1 {
+  color: #ff6600; /* Taronja */
+}
+h2 {
+  color: #00b4d8; /* Cian */
+}
+h3 {
+  color: #ff6600; /* Taronja */
+}
+h4 {
+  color: #00b4d8; /* Cian */
+}
+
+a { 
+  color: #ff6600; /* Taronja (corregit el punt i coma que estava malament) */
+  font-weight: bold;
+  font-size: 1.2em;
+  font-style: italic;
+}
+th, td {
+  padding: 10px;
+  border: 1px solid #e0e0e0; /* Gris claret per separar les cel·les */
+}
+
+
+.clock {
+    margin-top: 40px;
+    margin-bottom: 20px;
+    color: #17D4FE;
+    font-size: 60px;
+    font-family: Orbitron, sans-serif;
+    letter-spacing: 7px;
+}
+tter-spacing: 7px;
+}
